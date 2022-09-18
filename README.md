@@ -45,9 +45,7 @@ npm dev
 		task:{
 		    title: "Mi Nueva Tarea",
 		    description: "Nueva Tarea" 
-		}
-	)
-
+		})
 } `
 
 `mutation {
